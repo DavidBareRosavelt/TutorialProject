@@ -1,11 +1,5 @@
-/**
- * 
- */
 package test.workspace.javaathran;
-/**
- * @author Admin
- *
- */
+
 public class ToVariable {
 
 	public static void main(String[] args) {
